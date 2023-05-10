@@ -1,7 +1,7 @@
 # Welcome to Techlatest 👋
 
 <p style="text-align:center;" align="center">
-      <td align="center"> <img src="/profile/Logo.Png.jpg" width="200px;" alt=""/></a> 
+      <td align="center"> <img src="Logo.Png.jpg" width="200px;" alt=""/></a> 
       </td>
 </p>
 
